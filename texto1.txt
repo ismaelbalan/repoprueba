@@ -1,1 +1,3 @@
-Esto es un prueba para git
+Esto es un prueba para git, esta es una segunda modificacion del archivo
+
+Esta es la segunda version
